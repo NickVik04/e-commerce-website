@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Express Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickVik04/e-commerce-website.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Nikhil Sharma",
+  "license": "ISC"
+}
